@@ -1,1 +1,2 @@
-# DesarrolloWeb
+# GaleriaProgWeb
+Curso de integrador Web
